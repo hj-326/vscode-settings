@@ -25,7 +25,7 @@
     "typescript.updateImportsOnFileMove.enabled": "always",
     "window.enableMenuBarMnemonics": false,
     "workbench.colorTheme": "One Dark Pro Darker",
-    "workbench.colorCustomizations": { 
+    "workbench.colorCustomizations": { // 颜色设置
         // "foreground": "#774c9d",
         // "editor.background": "#f9fcf5",
         "editor.background": "#000000",
@@ -48,7 +48,6 @@
     },
     "editor.minimap.showSlider": "always",
     "files.autoSave": "afterDelay",
-    "workbench.iconTheme": "material-icon-theme",
     "files.autoGuessEncoding": true,
     "workbench.list.smoothScrolling": true,
     "editor.cursorSmoothCaretAnimation": true,
