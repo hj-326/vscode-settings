@@ -40,12 +40,14 @@
         "editorBracketHighlight.foreground4": "#00ffe5",
         "editorBracketHighlight.foreground5": "#5451ff",
         "editorBracketHighlight.foreground6": "#d000ff",
+        "editor.selectionBackground": "#8635dc",
     },
     "editor.guides.bracketPairs":true,
     "editor.tokenColorCustomizations": {
         "comments": "#2cba31",
         "variables": "#43ccb5"
     },
+    
     "editor.minimap.showSlider": "always",
     "files.autoSave": "afterDelay",
     "files.autoGuessEncoding": true,
